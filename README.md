@@ -16,15 +16,15 @@ A soft light theme with cream backgrounds and rich, readable colors.
 
 | Role | Dark | Light |
 |------|------|-------|
-| **Keywords** | `#E06060` | `#C04040` |
-| **Functions** | `#8AAEC4` | `#2E6E8A` |
-| **Strings** | `#8BBF9C` | `#3E8A5E` |
-| **Types/Classes** | `#E8C060` | `#8A6A10` |
-| **Variables** | `#A8C8DC` | `#3A6A7A` |
-| **Parameters** | `#D4854A` | `#A86828` |
-| **Comments** | `#8A7E6E` | `#7A6E5E` |
-| **Decorators** | `#B89ED6` | `#7E5EAA` |
-| **Interfaces** | `#88CCC0` | `#3A8A80` |
+| **Keywords** | ![](https://img.shields.io/badge/-E06060-E06060) | ![](https://img.shields.io/badge/-C04040-C04040) |
+| **Functions** | ![](https://img.shields.io/badge/-8AAEC4-8AAEC4) | ![](https://img.shields.io/badge/-2E6E8A-2E6E8A) |
+| **Strings** | ![](https://img.shields.io/badge/-8BBF9C-8BBF9C) | ![](https://img.shields.io/badge/-3E8A5E-3E8A5E) |
+| **Types/Classes** | ![](https://img.shields.io/badge/-E8C060-E8C060) | ![](https://img.shields.io/badge/-8A6A10-8A6A10) |
+| **Variables** | ![](https://img.shields.io/badge/-A8C8DC-A8C8DC) | ![](https://img.shields.io/badge/-3A6A7A-3A6A7A) |
+| **Parameters** | ![](https://img.shields.io/badge/-D4854A-D4854A) | ![](https://img.shields.io/badge/-A86828-A86828) |
+| **Comments** | ![](https://img.shields.io/badge/-8A7E6E-8A7E6E) | ![](https://img.shields.io/badge/-7A6E5E-7A6E5E) |
+| **Decorators** | ![](https://img.shields.io/badge/-B89ED6-B89ED6) | ![](https://img.shields.io/badge/-7E5EAA-7E5EAA) |
+| **Interfaces** | ![](https://img.shields.io/badge/-88CCC0-88CCC0) | ![](https://img.shields.io/badge/-3A8A80-3A8A80) |
 
 ## Language Support
 
