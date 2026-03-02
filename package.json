@@ -1,0 +1,49 @@
+{
+  "name": "retro-keyboard-theme",
+  "displayName": "Retro Keyboard Theme",
+  "description": "A warm, retro color theme inspired by colorful mechanical keyboards with pastel keycaps. Includes dark and light variants with full language support.",
+  "version": "1.1.0",
+  "publisher": "nicolas-mengual",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmengual/retro-keyboard-theme"
+  },
+  "author": {
+    "name": "Nicolás Mengual"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "retro",
+    "keyboard",
+    "pastel",
+    "warm",
+    "mechanical-keyboard",
+    "dark-theme",
+    "light-theme"
+  ],
+  "galleryBanner": {
+    "color": "#2A2520",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro Keyboard Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/retro-keyboard-dark.json"
+      },
+      {
+        "label": "Retro Keyboard Light",
+        "uiTheme": "vs",
+        "path": "./themes/retro-keyboard-light.json"
+      }
+    ]
+  }
+}
