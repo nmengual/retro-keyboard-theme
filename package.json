@@ -2,7 +2,7 @@
   "name": "retro-keyboard-theme",
   "displayName": "Retro Keyboard Theme",
   "description": "A warm, retro color theme inspired by colorful mechanical keyboards with pastel keycaps. Includes dark and light variants with full language support.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "nicolasmengual",
   "license": "MIT",
   "icon": "icon.png",
@@ -16,7 +16,9 @@
   "engines": {
     "vscode": "^1.75.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "keywords": [
     "theme",
     "color-theme",
